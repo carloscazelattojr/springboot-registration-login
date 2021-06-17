@@ -32,12 +32,12 @@ Spring Initializr: https://start.spring.io
 # Image Project
 
 <h1 align="center">
-    <img alt="javaguide" title="#site" src="#"  /><br>
+    <img alt="java" title="#site" src="#"  /><br>
 </h1>
 
 
 <h1 align="center">
-    <img alt="javaguide" title="#newStudent" src="#"  /><br>
+    <img alt="java" title="#site" src="#"  /><br>
 </h1>
 
 
