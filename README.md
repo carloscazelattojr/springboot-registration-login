@@ -28,7 +28,7 @@ Spring Initializr: https://start.spring.io
 ## Architecture
 
 <h1 align="center">
-    <img alt="java" title="project" src="https://github.com/carlosjunior1983/springboot-registration-login/blob/main/imgs/project.png"  /><br>
+    <img alt="java" title="project" src="https://github.com/carloscazelattojr/springboot-registration-login/blob/main/imgs/project.png"  /><br>
 </h1>
 
 
@@ -38,12 +38,12 @@ http://localhost:8000/
 
 Login: 
 <h1 align="center">
-    <img alt="java" title="login" src="https://github.com/carlosjunior1983/springboot-registration-login/blob/main/imgs/Login.PNG"  /><br>
+    <img alt="java" title="login" src="https://github.com/carloscazelattojr/springboot-registration-login/blob/main/imgs/Login.PNG"  /><br>
 </h1>
 
 New Register: 
 <h1 align="center">
-    <img alt="java" title="register" src="https://github.com/carlosjunior1983/springboot-registration-login/blob/main/imgs/newRegistration.PNG"  /><br>
+    <img alt="java" title="register" src="https://github.com/carloscazelattojr/springboot-registration-login/blob/main/imgs/newRegistration.PNG"  /><br>
 </h1>
 
 
